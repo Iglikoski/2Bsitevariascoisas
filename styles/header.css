@@ -27,11 +27,8 @@
     display: none;
     position: absolute;
     top: 100%; 
-    .lista-menu {
-        display: none;
-        position: absolute;
-        top: 100%;
-        width: 60vw;
+    width: 60vw;
+    
       
 }
 .container__botao:checked ~ .lista-menu {
